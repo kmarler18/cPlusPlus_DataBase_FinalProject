@@ -9,4 +9,4 @@ I was tasked with creating a program that incorporated all of the techniques we 
 Within the program, I was required to use a switch, two types of loops and create and utilize a file stream object to read and write data from a file.
 Additionally, I had to use at least 3 functions (one of which had to be overloaded), a 2D array and some type of user input validation. 
 
-I ended up getting a 100% on the project. 
+I earned a 100% on the project from my professor <a href="https://github.com/bowmanmc" target="_blank">Michael Bowman</a>. 
